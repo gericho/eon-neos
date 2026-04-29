@@ -1,4 +1,4 @@
-This is just a backup copy of the original Comma Two, for posterity.
+This is just a backup copy of the original Comma Two, for posterity. The fastboot images can be found in the Releases section.
 
 NEOS
 ======
