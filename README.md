@@ -1,3 +1,5 @@
+This is just a backup copy of the original Comma Two, for posterity.
+
 NEOS
 ======
 
