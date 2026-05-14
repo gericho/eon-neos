@@ -1,6 +1,6 @@
 This is just a backup copy of the original Comma Two, for posterity. The fastboot images can be found in the Releases section.
 
-Please find the complete installation guide and notes for the LeEco Le Pro 3 in the file install_notes_for_codex
+Please find the complete installation guide and notes for the LeEco Le Pro 3 in the file install_notes_for_codex.md
 
 NEOS
 ======
